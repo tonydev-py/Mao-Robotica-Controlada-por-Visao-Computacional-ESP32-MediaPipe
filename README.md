@@ -37,7 +37,8 @@ O estado é enviado via serial para o ESP32.
 O ESP32 movimenta os servos correspondentes, replicando o gesto em uma mão robótica.
 
 📸 Demonstração
-![Demonstração](gif/Exemplo1.gif)
+<img src="gif/Exemplo1.gif" alt="Demonstração" width="400">
+
 
 
 ## 💻 Software Necessário
