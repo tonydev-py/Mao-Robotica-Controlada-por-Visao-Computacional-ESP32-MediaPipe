@@ -43,7 +43,7 @@ O ESP32 movimenta os servos correspondentes, replicando o gesto em uma mão rob�
 ## 💻 Software Necessário
 
 ### No computador:
-- Python 3.9+  
+- Python 3.9+ (mas não pode ser maior que 3.11 no momento o MediaPipe só funciona no 3.11)
 - OpenCV  
 - MediaPipe  
 - PySerial
